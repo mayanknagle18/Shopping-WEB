@@ -1,0 +1,26 @@
+.icons{
+    text-align: center;
+    font-size: 3rem;
+}
+.icons i{
+    color: #0D6EF1;
+}
+.card-title1{
+    text-align: center;
+    color: white;
+}
+.top-content{
+    text-align: center;
+}
+.service-main{
+background-color: #1d293e;
+}
+.card1{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #1d293e;
+}
+.card-text1{
+    color: white;
+    text-align: center;
+}

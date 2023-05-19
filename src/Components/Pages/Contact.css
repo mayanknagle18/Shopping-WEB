@@ -1,0 +1,32 @@
+.heading-text{
+   text-align: center;
+}
+.left-section{
+    background-color: #3e1f92;
+    color: white;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    padding: 30px;
+}
+.left-section h3{
+    padding-bottom: 5px;
+}
+.left-section p{
+    padding-bottom: 10px;
+}
+.button1{
+    background-color: #3e1f92;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: #3e1f92;
+}
+.circle-1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #fa949d;
+    float: right;
+}
